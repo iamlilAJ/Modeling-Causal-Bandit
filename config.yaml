@@ -1,0 +1,36 @@
+#n_rounds : 10
+#num_node  : 5
+#train_rounds: 300
+#online_train_rounds : 200
+#T : 50
+#test_rounds : 300
+#num_data : 50
+#alpha : 1
+
+
+#config for 8 node
+#n_rounds : 20
+#num_node  : 8
+#train_rounds: 600
+#online_train_rounds : 500
+#T : 100
+#test_rounds : 500
+#num_data : 80
+#alpha : 1
+#given_data : False
+
+#
+##config for 10 node
+
+n_rounds : 20
+num_node  : 10
+train_rounds: 1000
+online_train_rounds : 800
+T : 300
+test_rounds : 3000
+num_data : 0
+alpha : 1
+given_data : False
+
+
+
